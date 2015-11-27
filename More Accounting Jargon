@@ -1,0 +1,19 @@
+2i) - Can hardcode 'C' or 'D'
+	- Can set a description
+	- Can hardcode account #s
+		- Accounts Payable -> 2050
+		- Payroll Expense -> 4045
+
+RE - Revenue accounts is a temporary account
+Ex - Expense accounts is a temporary account
+
+Owners Equity = RE - Ex
+
+
+3045 -> 400
+		D: RE Account 	400
+		C: OE -5555		400
+
+4026 -> 200
+	D: OE 			200
+	C: Ex Account 	200
